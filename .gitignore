@@ -1,6 +1,13 @@
+.DS_Store
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+/Java-Playground/nbproject/private/
+/Java-Playground/build/
+/Java-Playground/dist/
+/MyFirstApp/nbproject/private/
+/MyFirstApp/build/
+/MyFirstApp/dist/
